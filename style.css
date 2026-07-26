@@ -63,6 +63,7 @@ ul{
     align-items: center;
     background-color: #f3f3f3;
     
+    
 }
 
 .section-left h2{
@@ -149,7 +150,7 @@ ul{
 
 .contact-me-main{
     justify-content: space-between;
-    
+    display: flex;
     background-color: #f3f3f3;
     margin: 10px auto;
     padding-top: 60px;
@@ -175,4 +176,43 @@ ul{
     padding: 20px ;
     
 }
+
+.div_right{
+    justify-content: space-between;
+    
+    background-color: #f3f3f3;
+    margin: 10px auto;
+    
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.dr_1{
+    display: flex;
+    column-gap: 20px;
+    padding: 15px 0;
+      
+}
+
+.btn{
+    padding: 5px;
+    background-color: #97614c;
+    border-radius: 5px;
+}
+
+.aref{
+    text-decoration: none;
+    color: black;
+}
+
+.aref1{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.lastdiv{
+    display: flex;
+    justify-content: space-between;
+}
+
 
